@@ -15,10 +15,13 @@ h1{
     background-color: white;
     margin: auto auto;
     contain: content;
+    border-radius: 30px;
+    border:3px solid rgb(25, 185, 25);
+    text-align: center;
 }
 
 h1:hover{
-    background-color: red;
+    background-color: rgb(110, 241, 110);
 }
 
 h2{

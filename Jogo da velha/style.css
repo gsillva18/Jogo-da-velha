@@ -1,5 +1,6 @@
 *{
-    background-color: green;
+    background-color: #03bb85;
+    position: relative;
 }
 
 body{
@@ -7,7 +8,7 @@ body{
 }
 
 h1{
-    font-size: 150px;
+    font-size: 130px;
     font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
     height: 150px;
@@ -16,12 +17,13 @@ h1{
     margin: auto auto;
     contain: content;
     border-radius: 30px;
-    border:3px solid rgb(25, 185, 25);
+    border:5px solid rgb(153, 245, 153);
     text-align: center;
+    color: #0697C7;
 }
 
 h1:hover{
-    background-color: rgb(110, 241, 110);
+    background-color: #ccf8c1;
 }
 
 h2{
@@ -39,3 +41,4 @@ input#reiniciar{
     width: 250px;
     margin-top: 20px;
 }
+
